@@ -1,6 +1,6 @@
 # 💻 My DotFiles
 
-### Worth pointing out that i'm still working on this repo
+### I'm still working on this repo
 
 🎯 My personalized terminal environment including:
 
@@ -19,3 +19,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/JulioDevLinux/dotfiles.git
 cd dotfiles
+
+---
+
+## 🧠 Worth Point out!
+
+- This repository is intended for my personal use, but you utilize it as a base to build your own 
+environment.
+- Fell free to modify and adapt it to your own needs.
