@@ -20,8 +20,6 @@ Clone the repository:
 git clone https://github.com/JulioDevLinux/dotfiles.git
 cd dotfiles
 
----
-
 ## 🧠 Worth Point out!
 
 - This repository is intended for my personal use, but you utilize it as a base to build your own 
